@@ -1,0 +1,6 @@
+dependencies:
+- name: appmesh-controller
+  repository: https://aws.github.io/eks-charts
+  version: 0.5.0
+digest: sha256:cda3fa305c37ff8765c1a6feb8707431efee66cd4733e1171362c83febd59dc3
+generated: "2023-06-15T17:49:40.462594817+05:30"
